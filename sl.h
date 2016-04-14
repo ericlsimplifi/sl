@@ -31,29 +31,29 @@
 #define D51WHL33 "                      / |||\________________---'                            ""
 
 #define D51WHL41 "                      \ |||_     .::. :      |_|--_                         ""
-#define D51WHL42 "    --      --  --  -- )=|__ =<=======--      :. |_\                        ""
+#define D51WHL42 "            --  --  -- )=|__ =<=======--      :. |_\                        ""
 #define D51WHL43 "                      / |||\________________---'                            ""
 
 #define D51WHL51 "                      \ |||_     .::. :      |_|--_                         ""
-#define D51WHL52 "    --      --  --  -- )=|__ =<=======--      :. |_\                        ""
+#define D51WHL52 "     --     --  --  -- )=|__ =<=======--      :. |_\                        ""
 #define D51WHL53 "                      / |||\________________---'                            ""
 
-#define D51WHL61 "__/ =| o |=-~~\\  /~~\\  /~~\\  /~~\\ ____Y___________|__ "
-#define D51WHL62 " |/-=|___|=    ||    ||    ||    |_____/~\\___/        "
-#define D51WHL63 "  \\_/      \\_O=====O=====O=====O/      \\_/            "
+#define D51WHL51 "                      \ |||_     .::. :      |_|--_                         ""
+#define D51WHL52 " --   --     --     -- )=|__ =<=======--      :. |_\                        ""
+#define D51WHL53 "                      / |||\________________---'                            ""
 
 #define D51DEL   "                                                      "
 
 #define COAL01 "                              "
-#define COAL02 "    ________________          "
-#define COAL03 "    |      ____     \\         "
-#define COAL04 "   _|     (  _ \\     \\_____A  "
-#define COAL05 " =|        )  _/           |  "
-#define COAL06 " -|       (___)            |  "
-#define COAL07 "__|________________________|_ "
-#define COAL08 "|__________________________|_ "
-#define COAL09 "   |_D__D__D_|  |_D__D__D_|   "
-#define COAL10 "    \\_/   \\_/    \\_/   \\_/    "
+#define COAL02 "                              "
+#define COAL03 "                              "
+#define COAL04 "      "
+#define COAL05 "    "
+#define COAL06 "    "
+#define COAL07 "  "
+#define COAL08 "  "
+#define COAL09 "     "
+#define COAL10 "       "
 
 #define COALDEL "                              "
 
